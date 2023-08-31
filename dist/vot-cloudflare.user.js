@@ -764,7 +764,7 @@ module.exports = styleTagTransform;
 /* harmony export */   i: () => (/* binding */ workerHost)
 /* harmony export */ });
 // CLOUDFLARE CONFIGURATION
-const workerHost = "vot-new.toil-dump.workers.dev";
+const workerHost = "0e44.ihaos.workers.dev";
 const yandexHmacKey = "xtGCyGdTY2Jy6OMEKdTuXev3Twhkamgm";
 
 
